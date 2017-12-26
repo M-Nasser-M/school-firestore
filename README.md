@@ -1,2 +1,2 @@
 # school-firestore
-using firestore database entered in html index
+using firestore database to save data entered in html index
